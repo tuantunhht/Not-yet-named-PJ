@@ -8,7 +8,7 @@ Dự án test, thực hành sử dụng Git, tương tác với github v�
 
 ```bash
 
-git clone https://github.com/tuantunhht/Not-yet-named-PJ.git
+git clone https://github.com/tuantunhht/GIT-and-GITHUB-usage.git
 
 cd repo-name
 
